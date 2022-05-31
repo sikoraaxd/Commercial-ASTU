@@ -1,0 +1,55 @@
+﻿<Window x:Class="Commercial_ASTU.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Commercial_ASTU"
+        xmlns:viewModel="clr-namespace:Commercial_ASTU.MVVM.ViewModel"
+        xmlns:view="clr-namespace:Commercial_ASTU.MVVM.View"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="960" Width="640"
+        ResizeMode="NoResize"
+        Background="Transparent"
+        AllowsTransparency="True"
+        WindowStyle="None">
+
+    <Border CornerRadius="20"
+            Background="White">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Border CornerRadius="20" 
+                    MouseDown="Border_MouseDown" 
+                    Height="40"
+                    Width="640"
+                    Background="White">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                    <Button Width="20" Height="20" 
+                            Margin="0,0,20,0"
+                            Click="ExitButton_Click"
+                            Background="Transparent"
+                            BorderThickness="0"
+                            FontWeight="Bold">X</Button>
+                </StackPanel>
+            </Border>
+            <ContentControl Grid.Row="1" Content="{Binding CurrentView}">
+                <ContentControl.Resources>
+                    <DataTemplate DataType="{x:Type viewModel:AuthViewModel}">
+                        <view:AuthView/>
+                    </DataTemplate>
+                    <DataTemplate DataType="{x:Type viewModel:StudentViewModel}">
+                        <view:StudentView/>
+                    </DataTemplate>
+                    <DataTemplate DataType="{x:Type viewModel:StudentViewModel2}">
+                        <view:StudentView2/>
+                    </DataTemplate>
+                    <DataTemplate DataType="{x:Type viewModel:TeacherViewModel}">
+                        <view:TeacherView/>
+                    </DataTemplate>
+                </ContentControl.Resources>
+            </ContentControl>
+        </Grid>
+    </Border>
+</Window>

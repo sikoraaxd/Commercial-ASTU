@@ -1,0 +1,63 @@
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\Commercial ASTU.exe
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\Commercial ASTU.deps.json
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\Commercial ASTU.runtimeconfig.json
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\Commercial ASTU.runtimeconfig.dev.json
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\Commercial ASTU.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\Commercial ASTU.pdb
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\Commercial ASTU.csproj.AssemblyReference.cache
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\App.g.cs
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\Commercial ASTU_MarkupCompile.cache
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\Commercial ASTU_MarkupCompile.lref
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\Commercial ASTU.g.resources
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\Commercial ASTU.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\Commercial ASTU.AssemblyInfoInputs.cache
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\Commercial ASTU.AssemblyInfo.cs
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\Commercial ASTU.csproj.CoreCompileInputs.cache
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\Commercial ASTU.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\refint\Commercial ASTU.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\Commercial ASTU.pdb
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\Commercial ASTU.genruntimeconfig.cache
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\ref\Commercial ASTU.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\MVVM\View\AuthView.g.cs
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\MVVM\View\AuthView.baml
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\MVVM\View\StudentView.g.cs
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\MVVM\View\StudentView.baml
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\MVVM\View\StudentView2.g.cs
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\MVVM\View\TeacherRequestsView.g.cs
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\MVVM\View\TeacherView.g.cs
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\MVVM\View\StudentView2.baml
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\MVVM\View\TeacherRequestsView.baml
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\MVVM\View\TeacherView.baml
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\Microsoft.Bcl.HashCode.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\Npgsql.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\Commercial ASTU.csproj.CopyComplete
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\EntityFramework.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\MVVM\View\UserControl1.g.cs
+D:\Edu\Diplomas\Commercial ASTU\Commercial ASTU\obj\Debug\net5.0-windows\MVVM\View\UserControl1.baml

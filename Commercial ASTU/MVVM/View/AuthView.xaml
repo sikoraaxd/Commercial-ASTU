@@ -1,0 +1,39 @@
+﻿<UserControl x:Class="Commercial_ASTU.MVVM.View.AuthView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             xmlns:local="clr-namespace:Commercial_ASTU.MVVM.View"
+             d:DesignHeight="920" d:DesignWidth="640"
+             Background="Transparent">
+    <Grid>
+        <StackPanel Grid.Row="1" HorizontalAlignment="Center"
+                        VerticalAlignment="Center">
+            <TextBlock Width="240" Height="40"
+                       TextAlignment="Center"
+                       FontSize="18"
+                       FontWeight="Bold">Логин</TextBlock>
+            <TextBox Width="240" Height="40" FontSize="18"
+                     Text="{Binding Login}"/>
+            <TextBlock Width="240" Height="40"
+                       TextAlignment="Center"
+                       FontSize="18"
+                       FontWeight="Bold"
+                       Margin="0,10,0,0"
+                       >Пароль</TextBlock>
+            <TextBox Width="240" Height="40" FontSize="18"
+                        Text="{Binding Password}"/>
+            <Button Width="240" Height="40"
+                    FontWeight="Bold"
+                    FontSize="18"
+                    Margin="0,10,0,0"
+                    Command="{Binding TryLogin}">Войти</Button>
+            <Button Width="240" Height="40"
+                    FontWeight="Bold"
+                    FontSize="18" 
+                    Margin="0,10,0,0"
+                    Command="{Binding StudentCommand}">Я студент</Button>
+        </StackPanel>
+    </Grid>
+</UserControl>
